@@ -1,0 +1,14 @@
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.csproj.CoreCompileInputs.cache
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.RazorAssemblyInfo.cache
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.RazorAssemblyInfo.cs
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.AssemblyInfoInputs.cache
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.AssemblyInfo.cs
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\bin\Debug\netcoreapp2.1\GroceryStoreAPI.deps.json
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\bin\Debug\netcoreapp2.1\GroceryStoreAPI.runtimeconfig.json
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\bin\Debug\netcoreapp2.1\GroceryStoreAPI.runtimeconfig.dev.json
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\bin\Debug\netcoreapp2.1\GroceryStoreAPI.dll
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\bin\Debug\netcoreapp2.1\GroceryStoreAPI.pdb
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.RazorTargetAssemblyInfo.cache
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.dll
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.pdb
+C:\Interview\interview-dotnet-master\interview-dotnet-master\GroceryStoreAPI\obj\Debug\netcoreapp2.1\GroceryStoreAPI.csprojAssemblyReference.cache
